@@ -10,7 +10,7 @@ function new_image()
 	block_image_object.scaleToHeight(500);
 	block_image_object.set({
 	top:0,
-	left:50
+	left:10
 	});
 	canvas.add(block_image_object);
 	});
